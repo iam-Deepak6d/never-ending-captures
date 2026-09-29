@@ -1,0 +1,7 @@
+LOGO: assets/images/logo.png
+HERO: assets/images/hero.jpg
+VIDEO: assets/video/nec-film.mp4
+EDIT CONTACT DETAILS: assets/js/config.js
+MAIN PAGE: index.html
+STYLES: assets/css/styles.css
+SCRIPT: assets/js/script.js
